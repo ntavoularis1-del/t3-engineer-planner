@@ -1,4 +1,4 @@
-const CACHE='t3-team-v1';
+const CACHE='t3-team-v2';
 const SHELL=['./','./index.html','./config.js','./supabase.js','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png'];
 
 self.addEventListener('install',event=>{
